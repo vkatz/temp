@@ -1,0 +1,19 @@
+<resources>
+    <string name="api_key">b66ffea8276ce576d60df52600822c88</string>
+
+    <string name="app_name">Movies</string>
+    <string name="app_connection_problem">Connection problem</string>
+    <string name="app_reload">Reload</string>
+
+    <string name="movie_list_no_items">List is empty</string>
+
+    <string name="movie_list_item_popularity">Popularity:</string>
+    <string name="movie_list_item_release">Release:</string>
+
+    <string name="movie_detail_popularity">@string/movie_list_item_popularity</string>
+    <string name="movie_detail_release">@string/movie_list_item_release</string>
+    <string name="movie_detail_budget">Budget:</string>
+    <string name="movie_detail_homepage">Homepage:</string>
+    <string name="movie_detail_revenue">Revenue:</string>
+    <string name="movie_detail_runtime">Runtime:</string>
+</resources>
